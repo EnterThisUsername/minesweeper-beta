@@ -6,8 +6,8 @@
 # GPT-5.6 Luna
 - GPT is in control of prompt engineering and the central ideas.
 
-# Claude Haiku 4.5
-- Haiku 4.5 isnt the best, but im broke as fuck so, it is in control of code revision and wtv.
+# Claude Fable 5.1
+- Fable 5.1 is the best, it is in control of code revision and other half of the dev.
 
 # GLM-5.3
 - GLM is the main coder, because why not and its open source so cheaper ig yea.
